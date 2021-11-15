@@ -6,7 +6,7 @@ using namespace std;
 
 void printKnapsack(const vector<int>& knapsack) {
     cout << "[";
-    for (int x : knapsack)      // range for : x will be called for each int in the knapsack vector
+    for (int x : knapsack)      //range for : x will be called for each int in the knapsack vector
         cout << x <<" ";
     cout<<"]"<<endl;
 }
