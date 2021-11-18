@@ -1,1 +1,1 @@
-# MHE
+# MHE - Problem plecakowy
