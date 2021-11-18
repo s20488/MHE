@@ -1,6 +1,6 @@
 # MHE - Problem plecakowy
 
-![alt text](https://pl.wikipedia.org/wiki/Problem_plecakowy#/media/Plik:Knapsack.svg?raw=true)
+![alt text](http://4.bp.blogspot.com/-1SQuNXSQHMg/ThPDeS6wkRI/AAAAAAAAAcM/CXi3y274A5M/s1600/Captura+2011-07-05+a+las+21.07.28.png?raw=true)
 
 ### Opis problemu
 
