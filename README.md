@@ -15,4 +15,5 @@ Danymi w dyskretnym problemie plecakowym są:
 * Ciąg liczb naturalnych ***w0, w1, …, wn − 1***, oznaczających wagi kolejnych przedmiotów.
 * Ciąg liczb rzeczywistych ***v0, v1, …, vn − 1***, oznaczających wartości kolejnych przedmiotów.
 
-### Rozwiązanie w sposób dynamiczny
+### Link do Wikipedii
+https://en.wikipedia.org/wiki/Knapsack_problem
