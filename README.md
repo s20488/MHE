@@ -1,3 +1,5 @@
 # MHE - Problem plecakowy
 
- Algorytm znajdujący optymalne upakowanie plecaka dla wprowadzonych danych (tj. uzyskanie maksymalnej wartości przedmiotów w plecaku, nie przekraczając jego pojemności).
+### Opis problemu
+
+Zadaniem programu jest rozwiązanie tzw. problemu plecakowego, a dokładniej jednej z jego różnych wersji zwanej dyskretnym problemem plecakowym. Problem polega na wyborze takiego zestawu przedmiotów z danego zbioru przedmiotów o podanej wadze i wartości, aby suma ich wartości była możliwie jak największa i suma ich wag była nie większa od pojemności plecaka.
