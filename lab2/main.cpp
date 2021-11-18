@@ -60,7 +60,7 @@ int main() {
 
     load_file("C:\\Users\\user\\CLionProjects\\BackPack\\dane.txt");
 
-    print_data();
+    print_data(W);
 
     //Wywołanie funkcji
     cout << "Maximum value we can obtain = " << knapsack(W, solution, n);
