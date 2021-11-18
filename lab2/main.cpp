@@ -43,11 +43,12 @@ void load_file(string filename) {
     }
 }
 
+//Drukowanie danych z pliku
 void print_data() {
     //Nowa kolejność pozycji wraz z ich proporcjami
     cout << "Value and weight of each item: " << endl;
     for (int i = 0; i < solution.size(); i++) {
-        cout << solution[i].value << "  " << solution[i].weight << endl;
+        cout << i + 1 << ". " << solution[i].value << "  " << solution[i].weight << endl;
     }
 }
 
