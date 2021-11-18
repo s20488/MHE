@@ -44,8 +44,9 @@ void load_file(string filename) {
 }
 
 //Drukowanie danych z pliku
-void print_data() {
+void print_data(int w) {
     //Nowa kolejność pozycji wraz z ich proporcjami
+    cout << "Maximum backpack weight = " << w << endl;
     cout << "Value and weight of each item: " << endl;
     for (int i = 0; i < solution.size(); i++) {
         cout << i + 1 << ". " << solution[i].value << "  " << solution[i].weight << endl;
@@ -53,7 +54,7 @@ void print_data() {
 }
 
 int main() {
-    int W = 50; //Waga plecaka
+    int W = 5; //Waga plecaka
 
     int n = sizeof(solution) / sizeof(solution[0]); //Rozmiar wektora
 
